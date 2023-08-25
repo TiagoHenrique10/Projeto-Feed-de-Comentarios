@@ -41,6 +41,8 @@ Contribuições são bem-vindas! Se você deseja contribuir com melhorias, corre
 
 ### Resultado final do Projeto
 
-![Biblioteca de Jogos](https://github.com/TiagoHenrique10/Projeto-Biblioteca-De-Jogos/assets/96561261/e8905258-8062-4bff-aa22-1f667d575f79)
+![Seção de Comentários](https://github.com/TiagoHenrique10/Projeto-Feed-de-Comentarios/assets/96561261/cbb20ea9-f77d-44a2-9044-b29d173d0ed2)
+![Screenshot_1](https://github.com/TiagoHenrique10/Projeto-Feed-de-Comentarios/assets/96561261/990d27da-361c-4b24-a14a-8ba8bd4773a9)
+
 
 
